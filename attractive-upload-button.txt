@@ -1,0 +1,10 @@
+<div class="c-editor c-fileupload" data-allowed-types="pdf,docx,doc,pptx,ppt,jpg" data-max-file-count="2" data-max-file-size="20"> 
+	<div class="c-fileupload-dropzone c-background-highlight">
+		<span class="c-upload-button">
+			<button type="button" id="file-upload-14">Upload</button>
+			<input type="file" name="file" aria-labelledby="file-upload-14" multiple="" tabindex="-1"></span><span class="c-fileupload-dropzone-message">or drag files here.
+		</span> 
+	</div>
+	<div class="c-validation c-warning" aria-hidden="true"></div>
+	<div class="c-fileupload-filelist"></div>
+</div>
